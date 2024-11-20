@@ -9,20 +9,16 @@ const navBarLinks = [
 
 const footerLinks = [
   {
-    section: "Écosystème",
+    section: "生态系统",
     links: [
-      { name: "Documentation", url: "/fr/welcome-to-docs/" },
-      { name: "Outils et Équipements", url: "/fr/products" },
-      { name: "Services de Construction", url: "/fr/services" },
+      { name: "开发文档", url: "" },
+      { name: "白皮书", url: "" },
     ],
   },
   {
-    section: "Société",
+    section: "公司",
     links: [
-      { name: "À propos de nous", url: "#" },
-      { name: "Blog", url: "/fr/blog" },
-      { name: "Carrières", url: "#" },
-      { name: "Clients", url: "#" },
+      { name: "博客", url: "/fr/blog" },
     ],
   },
 ];
@@ -30,7 +26,7 @@ const footerLinks = [
 const socialLinks = {
   facebook: "#",
   x: "#",
-  github: "https://github.com/mearashadowfax/ScrewFast",
+  github: "",
   google: "#",
   slack: "#",
 };
